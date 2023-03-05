@@ -860,10 +860,6 @@
 127.0.0.1 api.adrtx.net
 127.0.0.1 cdn.adrtx.net
 
-# [ads-twitter.com]
-127.0.0.1 ads-twitter.com
-127.0.0.1 static.ads-twitter.com
-
 # [ads1-adnow.com]
 127.0.0.1 ads1-adnow.com
 127.0.0.1 n.ads1-adnow.com
@@ -10591,12 +10587,6 @@
 
 # [twilio.com]
 127.0.0.1 sdkgw.us1.twilio.com
-
-# [twitter.com]
-127.0.0.1 ads.twitter.com
-127.0.0.1 ads-api.twitter.com
-127.0.0.1 ads-bidder-api.twitter.com
-127.0.0.1 analytics.twitter.com
 
 # [tynt.com]
 127.0.0.1 de.tynt.com
